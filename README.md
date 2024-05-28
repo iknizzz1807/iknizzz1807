@@ -1,6 +1,6 @@
 # Hi there, I am Nguyen My Thong 👋
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=300" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github" />
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt)
