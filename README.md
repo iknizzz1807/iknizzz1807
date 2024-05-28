@@ -1,11 +1,23 @@
-# Hi there, I am Nguyen My Thong 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Nguyen+My+Thong!;" />
+</h1>
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt" />
- <img height="285" src="https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github" />
+ <img height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github" />
+ <br/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600" />
 </div>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt)
-![My Skills](https://skillicons.dev/icons?i=js,python,figma,webflow,cpp,svelte,django,flask,tensorflow,godot,react,firebase,html,css&perline=3)
-<br />
-![Nguyen My Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github) -->
-- 🌱 I’m currently learning Computer Science at UIT in Vietnam
-- 📫 How to reach me: mythonggg@gmail.com
+<br/>
+
+<div align="center">
+🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
+<br/>
+📫 How to reach me: <b>mythonggg@gmail.com</b>
+</div>
+<br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iknizzz1807/iknizzz1807/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
