@@ -18,8 +18,3 @@
 🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
 <br/>
 📫 How to reach me: <b>mythonggg@gmail.com</b>
-</div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iknizzz1807/iknizzz1807/output/github-contribution-grid-snake.svg" />
-</div>
