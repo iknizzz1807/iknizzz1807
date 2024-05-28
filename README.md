@@ -7,13 +7,18 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600" />
 </div>
 <br/>
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=svelte,react,tailwind,js,html,css,figma,webflow,python,flask,django,firebase" />
+<br/>
+    <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow" />
+<br/>
 <div align="center">
 🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
 <br/>
 📫 How to reach me: <b>mythonggg@gmail.com</b>
 </div>
-<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iknizzz1807/iknizzz1807/output/github-contribution-grid-snake.svg" />
