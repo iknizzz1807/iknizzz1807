@@ -4,15 +4,15 @@
 <div align="center">
  <img height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github" />
  <br/>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknizzz1807&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600&hide=html,css,scss" />
 </div>
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,tailwind,js,html,css,figma,webflow,python,flask,django,firebase" />
+    <img src="https://skillicons.dev/icons?i=svelte,tailwind,js,figma,webflow,python,flask,django,firebase" />
 <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow,ts" />
 <br/>
 <div align="center">
 🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
