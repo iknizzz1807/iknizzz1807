@@ -10,9 +10,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,tailwind,js,figma,webflow,python,flask,django,firebase" />
+    <img src="https://skillicons.dev/icons?i=svelte,js,figma,webflow,python,flask,django,firebase" />
 <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow,ts,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow,ts,java,pytorch,r" />
 <br/>
 <div align="center">
 🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
