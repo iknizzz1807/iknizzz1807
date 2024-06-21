@@ -10,7 +10,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,js,figma,webflow,python,flask,django,firebase" />
+    <img src="https://skillicons.dev/icons?i=svelte,js,figma,webflow,python,flask,django,firebase,fastapi" />
 <br/>
     <img src="https://skillicons.dev/icons?i=cpp,godot,tensorflow,ts,java,pytorch,r,cs" />
 <br/>
