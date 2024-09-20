@@ -12,7 +12,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=svelte,python,flask,firebase,fastapi" />
 <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,godot,ts,js,go" />
+    <img src="https://skillicons.dev/icons?i=cpp,godot,ts,js,go,solidjs" />
 <br/>
 <div align="center">
 🌱 I’m currently learning <b>Computer Science</b> at <strong>UIT</strong> in Vietnam
