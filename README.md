@@ -19,4 +19,4 @@
 <br/>
 📫 How to reach me: <b>mythonggg@gmail.com</b>
     <br/>
-🌐 My website: <b><a href="https://ikniz.me/">ikniz</a></b>
+🌐 My website: <b><a href="https://ikniz.site/">ikniz</a></b>
