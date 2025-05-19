@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Nguyen+My+Thong!;" />
-</h1>
 <div align="center">
  <img height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=iknizzz1807&show_icons=true&theme=cobalt&rank_icon=github" />
  <br/>
